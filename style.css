@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(50, 49, 49);
+    background-size: cover;
+    font-family: Calibri;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: 90vh;
+    width: 100vw;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    justify-content: space-between;
+    align-items: center;
+}
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* background-color: rgb(60, 62, 64); */
+    gap: 10px;
+}
+.convert {
+    gap: 50px;
+    height: 80vh;
+}
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 50px;
+    width: 100%;
+}
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    margin: 0;
+}
+.exam {
+    font-size: 40px;
+}
+h2 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    margin: 0;
+}
+span {
+    display: block;
+}
+
+span:hover {
+    color: rgb(78, 208, 255);
+    cursor: pointer;
+}
+
+button {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    border: none;
+    outline: none;
+    width: 150px;
+    height: 30px;
+    border-radius: 20px 20px 20px 20px;
+    background-color: rgb(60, 62, 64);
+    opacity: 0.75;
+}
+
+button:hover {
+    background-color: rgb(54, 137, 220);
+    opacity: 1;
+}
+
+input {
+    position: relative;
+    display: inline-block;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+input[type="text"] {
+    background: #fff;
+    width: 120px;
+    height: 50px;
+    border: none;
+    outline: none;
+    padding: 0 25px;
+}
+input[name="year"] {
+    border-radius: 25px 0 0 25px;
+}
+input[name="month"] {
+    left: -5px;
+}
+input[name="day"] {
+    left: -10px;
+}
+button[name="submitButton"] {
+    color: #fff;
+    width: 100px;
+    height: 50px;
+    border: none;
+    outline: none;
+    border-radius: 0 25px 25px 0;
+    cursor: pointer;
+    background: rgb(60, 62, 64);
+    left: -10px;
+}
+button[name="submitButton"]:hover {
+    background: rgb(54, 137, 220);
+}
+label {
+    color: #fff;
+    position: relative;
+    left: 15px;
+    bottom: 10px;
+    font-size: 20px;
+    opacity: 1;
+}
+
+span[name="convertedDate"] {
+    position: relative;
+    color: #fff;
+    font-size: 30px;
+    padding: 10px 25px;
+    cursor: pointer;
+    user-select: all;
+}
