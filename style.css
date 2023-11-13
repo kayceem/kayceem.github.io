@@ -3,7 +3,6 @@
     .container {
         height: 30vh !important;
         justify-content: flex-start !important;
-        background-color: rebeccapurple;
         gap: 20vh !important;
     }
     h1 {
