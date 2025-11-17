@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Mohan Bikram KC"
   pronouns         : # example: "she/her"
-  bio              : "Computer Engineering student at Gandaki College of Engineering and Science | Python Developer | Backend & AI Enthusiast"
+  bio              : "Computer Engineering student at Gandaki College of Engineering and Science | Automation | Python | Backend | AI Enthusiast"
   location         : "Nepal"
   employer         : "Gandaki College of Engineering and Science"
   uri              : "https://kcmohan.info.np/"
@@ -35,12 +35,12 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -81,12 +81,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+    # title: 'Articles'    
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
