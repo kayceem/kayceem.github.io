@@ -28,8 +28,8 @@
   "work": [
     {
       "company": "Bichitras Group",
-      "position": "Python Developer",
-      "website": "",
+      "position": "SDE 1",
+      "website": "https://bichitras.com/",
       "startDate": "2024-07-01",
       "endDate": "2024-08-31",
       "summary": "Developed ML modules for live engagement and performance analysis. Designed backend APIs and streaming logic for the live streaming app. Optimized application performance and scalability for high concurrency scenarios.",
@@ -40,9 +40,9 @@
       ]
     },
     {
-      "company": "Ramailo Tech",
+      "company": "Idea2MVP",
       "position": "Python Internship",
-      "website": "",
+      "website": "https://ramailo.tech/",
       "startDate": "2024-02-01",
       "endDate": "2024-05-31",
       "summary": "Developed backend services using Django and Celery for asynchronous task handling. Implemented Selenium for automated testing and scraping tasks. Designed and deployed RESTful APIs for the LMS and marketplace platforms. Worked on RAG-based information retrieval modules enhancing AI-driven features.",
@@ -64,6 +64,8 @@
       "gpa": "3.64",
       "courses": [
         "Artificial Intelligence",
+        "Natural Language Processing",
+        "Simulation and Modeling",
         "Data Mining",
         "Digital Signal Processing and Analysis",
         "Cloud Computing",

@@ -15,39 +15,35 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
 * August 2024 - September 2025: SDE 1
   * Bichitras Group
   * Duties included: Backend development, Recommendation systems, AI Modules Development
 
 * Feb 2024 - May 2024: Python Developer Intern
-  * Ramailo Tech
+  * Idea2MVP
   * Duties included: Backend development, GenAI integration, Automation scripts
   
 Skills
 ======
+* Machine Learning & AI
+  * Natural Language Processing
+  * Computer Vision
+  * RAG-based Information Retrieval
+  * AI-driven Features
+  * PyTorch
 * Programming Languages
   * Python
-  * JavaScript
   * C/C++
   * SQL
 * Backend Development
   * Django
   * FastAPI
-  * RESTful APIs
-  * Celery (Asynchronous Task Processing)
-* Machine Learning & AI
-  * ML Module Development
-  * RAG-based Information Retrieval
-  * AI-driven Features
+  * Celery
 * Tools & Technologies
   * Git
   * Docker
   * Selenium
+  * Playwright
   * Redis
   * PostgreSQL
 * Cloud & DevOps
