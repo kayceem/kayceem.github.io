@@ -2,7 +2,13 @@
 title: "Efficient Fine-Tuning of Large Language Models with Dynamic Parameter Allocation"
 collection: publications
 category: preprints
-permalink: /publication/2025-11-15-preprint-paper-2
+permalink: /publication/abstractive-summarization-2025/
+authors:
+  - name: 'Mohan Bikram K C'    
+  - name: 'Ayush Sharma Kaundinya'    
+  - name: 'Pramish Adhikari'    
+  - name: 'Smita Adhikari'    
+    affiliation: 'Department of Electronics Engineering, Paschimanchal Campus, IOE, Tribhuvan University'
 excerpt: 'This work introduces a dynamic parameter allocation strategy for efficient fine-tuning of large language models, reducing computational costs while maintaining performance.'
 date: 2025-11-15
 venue: 'bioRxiv'
