@@ -1,6 +1,7 @@
 ---
 title: "Automatic Speech Recognition"
 excerpt: "AI system combining speech-to-text, emotion detection, and text summarization using Conformer, XGBoost, and BART models"
+# excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
