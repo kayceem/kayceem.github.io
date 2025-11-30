@@ -30,31 +30,36 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * JavaScript
+  * C/C++
+  * SQL
+* Backend Development
+  * Django
+  * FastAPI
+  * RESTful APIs
+  * Celery (Asynchronous Task Processing)
+* Machine Learning & AI
+  * ML Module Development
+  * RAG-based Information Retrieval
+  * AI-driven Features
+* Tools & Technologies
+  * Git
+  * Docker
+  * Selenium
+  * Redis
+  * PostgreSQL
+* Cloud & DevOps
+  * Cloud Computing
+  * CI/CD Pipelines
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
