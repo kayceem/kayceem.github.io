@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of Computer Engineering, Pokhara University, 2021 - 2025
 
 Work experience
 ======
@@ -22,15 +20,13 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2024 - September 2025: SDE 1
+  * Bichitras Group
+  * Duties included: Backend development, Recommendation systems, AI Modules Development
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb 2024 - May 2024: Python Developer Intern
+  * Ramailo Tech
+  * Duties included: Backend development, GenAI integration, Automation scripts
   
 Skills
 ======
