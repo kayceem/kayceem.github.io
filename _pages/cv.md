@@ -11,54 +11,55 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of Computer Engineering, Pokhara University, 2021 - 2025
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2025 - Present: Freelance
+    * Duties included: AI Solutions, Backend Development, Automation Scripts
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2024 - September 2025: Junior ML Developer
+  * Bichitras Group
+  * Duties included: Development of ML modules like engagement, spam detection, chat analysis for live-streaming, Backend APIs and streaming logic design
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Feb 2024 - May 2024: Python Developer Intern
+  * Idea2MVP
+  * Duties included: Backend development, GenAI integration, Automation scripts
+
+* June 2022 - August 2024: Member
+  * GCES IT Club
+  * Duties included: Organizing workshops, Mentoring juniors, Leading AI projects
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * C/C++
+  * SQL
+* Machine Learning & AI
+  * Natural Language Processing
+  * Computer Vision
+  * RAG-based Information Retrieval
+  * PyTorch
+  * Data Visualization and Analysis
+* Backend Development
+  * Django
+  * FastAPI
+  * Celery
+* Tools & Technologies
+  * Git
+  * Docker
+  * Selenium
+  * Playwright
+  * Redis
+  * PostgreSQL
+* Cloud & DevOps
+  * Cloud Computing
+  * CI/CD Pipelines
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
