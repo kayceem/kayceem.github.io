@@ -10,7 +10,7 @@ authors:
 excerpt: 'This paper presents an integrated approach to speech processing by combining a Conformer-based speech recognition system with an XGBoost-driven emotion classification component.'
 date: 2025-12-02
 venue: 'Journal of Artificial Intelligence and Capsule Networks'
-paperurl: 'https://irojournals.com/aicn/article/pdf/7/4/3'
+paperurl: '/files/Integrating Automatic Speech Recognition and Emotion Detection_ A Conformer-XGBoost Framework for Human-Centered Speech Systems.pdf'
 citation: 'K C, M. B., Adhikari, S., & Thapa, T. B. (2025). &quot;Integrating Automatic Speech Recognition and Emotion Detection: A Conformer-XGBoost Framework for Human-Centered.&quot; <i>Journal of Artificial Intelligence and Capsule Networks 7, no. 4</i>.'
 ---
 
